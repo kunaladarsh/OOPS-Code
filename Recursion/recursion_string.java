@@ -1,6 +1,4 @@
-
 // Word Search
-
 public static Node segregateEvenOdd(Node head)
 
     {
