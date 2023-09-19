@@ -42,9 +42,7 @@ public static Node segregateEvenOdd(Node head)
             if(a%2!=0)
 
             {
-
                 temp.data=a;
-
                 temp=temp.next;
 
             }
