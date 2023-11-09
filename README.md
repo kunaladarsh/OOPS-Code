@@ -1,1 +1,8 @@
-Object-Oriented Programming System (OOPs) is a programming concept that works on the principles of abstraction, encapsulation, inheritance, and polymorphism.
+#### Object-Oriented Programming(OOPs)
+#### Introduction to Java core concepts
+#### Multi-threading
+#### Lambda expression
+#### Collections framework 
+#### Java Generics
+#### File handling and debugging
+
